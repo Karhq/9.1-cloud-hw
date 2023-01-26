@@ -24,3 +24,5 @@
 *Приложите скриншот.*
 
 ### Ответ  
+![Screen](https://github.com/Karhq/9.1-cloud-hw/blob/main/Nmb9.1.png)  
+![Screen](https://github.com/Karhq/9.1-cloud-hw/blob/main/Nmb9.2.png)  
